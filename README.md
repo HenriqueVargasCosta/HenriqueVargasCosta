@@ -33,6 +33,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kuique/Kuique/output/snake.svg" alt="Snake animation" />
+<img align="right" src="https://profile-counter.glitch.me/Kuique/count.svg?"  />
 
 ###
