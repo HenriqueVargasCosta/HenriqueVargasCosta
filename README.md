@@ -12,8 +12,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
 ###
@@ -29,7 +27,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHcwbnJjaHk0OTh6MWQ5MTlzYTBhd2N5d2J4cndlaTFrc2YyMTJnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VT89OacudHRsPqwcB4/giphy.gif"  />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHcwbnJjaHk0OTh6MWQ5MTlzYTBhd2N5d2J4cndlaTFrc2YyMTJnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VT89OacudHRsPqwcB4/giphy.gif"  />
+</div>
 
 ###
 
